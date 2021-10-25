@@ -16,7 +16,7 @@ sections:
     textAlign: left
     badge:
       label: New Website
-    title: This Is A Big Hero Headline
+    title: This Is A Big Hero Headline 1
     text: |2
        aAenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl. Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     actions:
